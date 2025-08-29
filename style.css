@@ -1,0 +1,41 @@
+caption{
+    background-color: aqua;
+}
+
+table, tr, th, td{
+    border: 1px solid;
+}
+
+th
+{
+    background-color: rgb(238, 255, 0);
+}
+.text1{
+    background-color: rgb(255, 8, 8);
+}
+.text2{
+    background-color: rgb(254, 8, 8);
+}
+.text3{
+    background-color: rgb(15, 137, 9);
+}
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
